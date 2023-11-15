@@ -65,7 +65,3 @@ The firmware folder contains 2 versions of the code based on different QMK relea
 For the `EC Revival` there are going to be 2 configurations, one for the 32U4 (Rev1) and another for STM32F4x1 (Rev2).
 
 Both have precompiled `*.hex` files based on the code in their respective folders to easily get the board up and running.
-
-## Copyright notice
-
-This project is released under the MIT License. For the license, please refer to the LICENCE.md file.
