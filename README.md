@@ -6,6 +6,12 @@
 
 Left half of Corne EC Revival Rev1.
 
+## **DEPRECATED**
+
+Please be advised that this project has been deprecated, and as of now, it is no longer supported. Regrettably, assistance or help cannot be provided for this deprecated project. The firmware is no longer targeting QMK main, and uses propositions that are now no lonfer working, making the project unusable.
+
+The newer version, Corne EC, will have lots of new feature and will be run as a proper project that you can buy and enjoy right away.
+
 ## Introduction
 
 The Corne EC Revival is my personal effort to revive the original Corne ECWL by [sekigon-gonnoc](https://github.com/sekigon-gonnoc).
