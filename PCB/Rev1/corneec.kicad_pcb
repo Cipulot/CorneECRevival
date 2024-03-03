@@ -9,8 +9,8 @@
     (title "Corne EC Revival")
     (date "2022-01-28")
     (rev "1.0")
-    (comment 1 "Copyright © 2021 Cipulot")
-    (comment 2 "MIT License")
+    (comment 1 "Copyright © 2024 Cipulot")
+    (comment 2 "CC-BY-NC-SA-4.0")
   )
 
   (layers
