@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+100k,"R1, R2, R3, R4, R5, R6, R7, R10",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
+1k,R9,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21190
+0.1u,"C1, C2",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+220p,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C302060
+74HC4051,U1,TSSOP16,C5645
+LTC6255,U2,TSOT-23-6_HandSoldering,C117251

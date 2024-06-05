@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,-113.4046,-59.8794,0,bottom
+C2,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,-128.365,-62.035,0,bottom
+C3,220p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,-124.815,-67.835,0,bottom
+R1,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-68.44,-18.8062,0,bottom
+R2,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-87.415,-21.1812,0,bottom
+R3,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-109.59,-23.56,0,bottom
+R4,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-49.415,-21.1812,0,bottom
+R5,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-30.415,-25.9312,0,bottom
+R6,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-86.5136,-69.3536,90,bottom
+R7,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-11.415,-25.9312,0,bottom
+R9,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-122.19,-62.96,90,bottom
+R10,22k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,-128.315,-64.685,-90,bottom
+U1,74HC4051,TSSOP16,-115.5128,-63.6386,-90,bottom
+U2,LTC6255,TSOT-23-6_HandSoldering,-124.9108,-63.7656,90,bottom

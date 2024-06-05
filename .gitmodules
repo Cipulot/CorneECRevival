@@ -1,0 +1,3 @@
+[submodule "PCB/cipulot_kicad_parts"]
+	path = PCB/cipulot_kicad_parts
+	url = https://github.com/Cipulot/cipulot_kicad_parts.git
